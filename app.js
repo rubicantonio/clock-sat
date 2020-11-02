@@ -1,4 +1,4 @@
-function myFunction() {
+function getTime() {
     var d = new Date();
     var n = d.getHours();
     var y = d.getMinutes();
@@ -14,5 +14,5 @@ function myFunction() {
     }
 }
 window.setInterval(function() {
-    myFunction()
+    getTime()
 }, 1000);
