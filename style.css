@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    justify-content: center;
+    background-color: lightcyan;
+}
+
+#container {
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px;
+    width: 25%;
+    height: 25%;
+    justify-content: center;
+    text-align: center;
+    margin-left: 35%;
+    margin-top: 7%
+}
+
+#CLOCK {
+    color: white;
+    font-size: 40px;
+}
